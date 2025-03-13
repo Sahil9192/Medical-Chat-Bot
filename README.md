@@ -1,4 +1,4 @@
-# Medical-Chat-Bot# End-to-End Medical Chatbot with Generative AI
+# Medical Chatbot with Generative AI
 
 Welcome to the **Medical Chatbot with Generative AI** project! This chatbot leverages **GPT, LangChain, Pinecone, and Flask** to provide intelligent medical responses based on embeddings and real-time queries.
 
@@ -115,9 +115,9 @@ This project is licensed under the **MIT License**.
 ## 📩 Contact & Support
 For any queries or suggestions, feel free to reach out!
 
-🔹 **Author:** YOUR NAME  
-🔹 **Email:** your.email@example.com  
-🔹 **GitHub:** [YOUR-GITHUB](https://github.com/YOUR-GITHUB)  
+🔹 **Author:** SAHIL PAWAR  
+🔹 **Email:** sahilypawar9192@gmail.com 
+🔹 **GitHub:** [Sahil9192](https://github.com/Sahil9192)  
 
 ---
 💡 *Happy Coding! 🚀*
