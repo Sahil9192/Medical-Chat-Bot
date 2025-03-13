@@ -1,0 +1,17 @@
+sentence-transformers==2.2.2
+transformers
+torch
+accelerate
+langchain
+flask
+pypdf
+python-dotenv
+faiss-cpu
+chromadb
+pinecone[grpc]
+langchain-pinecone
+langchain_community
+langchain_openai
+langchain_experimental
+huggingface_hub
+-e .
